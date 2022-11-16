@@ -1,4 +1,4 @@
-# Hello, My name is Pedro Carvalho👋
+# Hello, my name is Pedro Carvalho👋
 
 > I turn coffee into code ☕
 
