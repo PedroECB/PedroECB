@@ -23,3 +23,4 @@
 [<img align="center" alt="LinkedIn" width="30px" margin="5px" src="https://img.icons8.com/fluent/30/000000/linkedin.png" />](https://linkedin.com/in/pedro-bastos-carvalho-5449b0166/) 
 [<img align="center" alt="Outlook" width="30px" margin="5px" src="https://img.icons8.com/color/48/null/gmail--v1.png"/>](mailto:pedorosphbc@gmail.com)
 
+Author: Pedro Henrique Bastos Carvalho
